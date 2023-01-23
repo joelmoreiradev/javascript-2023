@@ -1,5 +1,8 @@
 /* Un callback es una funcion que se va a ejecutar despues 
-   en cierto punto del tiempo. */
+   en cierto punto del tiempo. O en otras palabras,
+   es una funcion que se manda como argumento a otra funcion*/
+
+
 
 // ? El setTimeOut es un tipo de callback.
 // setTimeout(() => {
